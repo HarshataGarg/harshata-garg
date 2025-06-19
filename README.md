@@ -34,9 +34,9 @@
 
 <p align="left">
   <a href="https://discord.com/users/yourdiscordID" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord"/></a>
-  <a href="https://www.github.com/harshatagarg" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/></a>
+  <a href="https://github.com/HarshataGarg" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/></a>
   <a href="https://www.twitter.com/yourtwitterhandle" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter"/></a>
-  <a href="https://www.linkedin.com/in/yourlinkedinprofile" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/harshata-garg-095119370" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/></a>
 </p>
 
 ---
