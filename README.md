@@ -10,8 +10,8 @@
 
 ### 🔧 Skills & Interests
 
-- **Programming:** Python, C++  
-- **Web Development:** HTML, CSS
+- **Programming:** Python, C++
+- **Web Development:** HTML, CSS  
 - **Databases & Tools:** MongoDB, MySQL, Firebase  
 - **Frameworks:** Django, Flask, Bootstrap  
 - **Other Interests:** Machine Learning, LLMs, Open Source Contributions
@@ -30,7 +30,7 @@
 
 <p align="left">
   <a href="mailto:harshatagarg@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="30" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="30" height="30"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/harshata-garg-095119370" target="_blank">
