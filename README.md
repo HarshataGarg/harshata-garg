@@ -11,7 +11,7 @@
 ### 🔧 Skills & Interests
 
 - **Programming:** Python, C++  
-- **Web Development:** HTML, CSS 
+- **Web Development:** HTML, CSS
 - **Databases & Tools:** MongoDB, MySQL, Firebase  
 - **Frameworks:** Django, Flask, Bootstrap  
 - **Other Interests:** Machine Learning, LLMs, Open Source Contributions
@@ -30,13 +30,15 @@
 
 <p align="left">
   <a href="mailto:harshatagarg@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="30" height="30"/>
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/harshata-garg-095119370" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
+  &nbsp;
   <a href="https://github.com/HarshataGarg" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>
   </a>
 </p>
 
