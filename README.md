@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Harshata! 👋</h1>
 
 <p align="center">
-🎓 CSE Student | Deep Learning & Software Development Enthusiast  
-💻 Passionate about Coding, AI, and Building Cool Projects  
-🚀 Exploring Large Language Models (LLMs) and Full-Stack Web Development  
+  • 🎓 CSE Student | Deep Learning & Software Development Enthusiast <br>
+  • 💻 Passionate about Coding, AI, and Building Cool Projects <br>
+  • 🚀 Exploring Large Language Models (LLMs) and Full-Stack Web Development
 </p>
 
 ---
