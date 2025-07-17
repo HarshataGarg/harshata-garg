@@ -10,8 +10,8 @@
 
 ### 🔧 Skills & Interests
 
-- **Programming:** Python, C++, JavaScript  
-- **Web Development:** HTML, CSS   
+- **Programming:** Python, C++  
+- **Web Development:** HTML, CSS 
 - **Databases & Tools:** MongoDB, MySQL, Firebase  
 - **Frameworks:** Django, Flask, Bootstrap  
 - **Other Interests:** Machine Learning, LLMs, Open Source Contributions
@@ -28,9 +28,17 @@
 
 ### 📫 Connect with Me
 
-- 📧 Email: [harshatagarg@gmail.com](mailto:harshatagarg@gmail.com)  
-- 💼 LinkedIn: [Harshata Garg](https://www.linkedin.com/in/harshata-garg-095119370)  
-- 🏆 Platforms: [GitHub](https://github.com/HarshataGarg)
+<p align="left">
+  <a href="mailto:harshatagarg@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harshata-garg-095119370" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/HarshataGarg" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
@@ -47,4 +55,3 @@
 ### ✨ Fun Fact
 
 I believe in **learning by doing** — and **Googling is my thing 😉**
-
